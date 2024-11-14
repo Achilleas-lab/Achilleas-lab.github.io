@@ -2,21 +2,24 @@ body {
     background-color: green;
     color: black;
     }
+    p { 
+        color: red;
+    }
     body.border {
         border-style: dotted;
         border-color: green;
-        border-width: 5px;
+        border-width: 15px;
     }
-    header-example {
+    header {
         font-family: "Times New Roman";
         font-size: 07px;
         color: grey;
     }
-list-example {
-  background: black;
+ul {
+  background: grey;
   padding: 20px;
 }
-text-example {
+p {
     font-family: "arial";
     font-size: 10px;
     text-transform: uppercase;
