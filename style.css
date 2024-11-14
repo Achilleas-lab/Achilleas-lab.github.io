@@ -1,0 +1,24 @@
+body {
+    background-color: green;
+    color: black;
+    }
+    body.border {
+        border-style: dotted;
+        border-color: green;
+        border-width: 5px;
+    }
+    header-example {
+        font-family: "Times New Roman";
+        font-size: 07px;
+        color: grey;
+    }
+list-example {
+  background: black;
+  padding: 20px;
+}
+text-example {
+    font-family: "arial";
+    font-size: 10px;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
